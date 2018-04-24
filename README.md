@@ -1,15 +1,16 @@
-# BOT PREFIX : -
+# DiscordBot
+Welcome To KhmerEmpire BOT
 
--say : makes the bot say something and delete the message .\n
--ban : ban player in guild .\n
--kick : kick player in guild .\n
--clear : clear message .\n
--ping : search ping or ms .\n
+# Features:
+-| -say : say [text] and delete
+-| -clear : clear a message from channel
+-| -ping : search ping or ms
+-| -ban : ban user from guild
+-| -kick @user @reason: kick user from guild
 
-#BOT Permissions\n
+And much more! Try !help to get a full list of available commands
 
-Bot allow role ,OWNER ,ADMIN to use commands heve permission !\n
+# Help
+Please check github issues page on this project. We get a lot of the same questions, its very likely yours has already been answered. And yes we need to roll those into an official FAQ.
 
-#HELP
-
-If you need help join us on [DISCORD](https://discord.gg/7mS9GEY) and #support channel !
+If you still need help join us on [DISCORD](https://discord.gg/7mS9GEY)
