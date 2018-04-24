@@ -1,3 +1,5 @@
+#Invite BOT : ⇩
+[Click Here To Invite Bot](https://discordapp.com/api/oauth2/authorize?client_id=438304216893620240&permissions=16796742&scope=bot)
 # DiscordBot
 Welcome To KhmerEmpire BOT
 
