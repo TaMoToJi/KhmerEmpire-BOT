@@ -1,12 +1,12 @@
 # DiscordBot
 Welcome To KhmerEmpire BOT
 
-# Features:
--| -say : say [text] and delete
--| -clear : clear a message from channel
--| -ping : search ping or ms
--| -ban : ban user from guild
--| -kick @user @reason: kick user from guild
+# Commands:
+-| -say : say [text] and delete                                                                                                           
+-| -clear : clear a message from channel                                                                                                   
+-| -ping : search ping or ms                                                                                                               
+-| -ban : ban user from guild                                                                                                             
+-| -kick @user @reason: kick user from guild                                                                                               
 
 And much more! Try !help to get a full list of available commands
 
