@@ -3,10 +3,6 @@
 
 [![Discord](https://img.shields.io/discord/430630483408453633.svg?style=for-the-badge)](https://discord.gg/7mS9GEY)
 
-[![Discord Bots](https://discordbots.org/api/widget/430630483408453633.svg)](https://discordbots.org/bot/438304216893620240)
-
-A Fire Emblem Heroes Discord bot
-
 
 ### Commands
 | Command       | Category      |Perms  |Info                      |
