@@ -1,11 +1,11 @@
 # Invite BOT : ⇩                                                                                                                            
 [Click Here To Invite Bot](https://discordapp.com/api/oauth2/authorize?client_id=438304216893620240&permissions=16796742&scope=bot)   
 
-# Discord Links                                                                                                                           
-[Click Here Join To Server](https://discord.gg/7mS9GEY)
-     
-# DiscordBot
-Welcome To KhmerEmpire BOT
+
+[![Discord](https://img.shields.io/discord/435237928546074644.svg?style=for-the-badge)](https://discord.gg/7mS9GEY)
+
+A Fire Emblem Heroes Discord bot
+
 
 # Commands:
 -say : say [text] and delete                                                                                                               
