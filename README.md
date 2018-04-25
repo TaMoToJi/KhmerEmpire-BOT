@@ -1,5 +1,5 @@
 
-[![invite](https://img.shields.io/badge/invite-KhmerEmpire-BOT%20Bot-7289DA.svg)](https://discordapp.com/oauth2/authorize?client_id=438304216893620240&permissions=1761709078&scope=bot)
+[![invite](https://discordapp.com/api/oauth2/authorize?client_id=438304216893620240&permissions=16796742&scope=bot)
 
 [![Discord](https://img.shields.io/discord/430630483408453633.svg?style=for-the-badge)](https://discord.gg/7mS9GEY)
 
