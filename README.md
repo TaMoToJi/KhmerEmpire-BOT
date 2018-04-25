@@ -16,3 +16,4 @@
 | report        | General       | NONE  | Report a Player erfrom server|
 | kick          | General       | ADMIN | Kick Player From Server     |
 | ban           | General       | ADMIN | Ban Player From Server     |
+| invite        | General       | None  | Invite bot to server      |
