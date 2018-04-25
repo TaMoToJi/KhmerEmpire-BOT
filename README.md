@@ -3,16 +3,17 @@
 
 [![Discord](https://img.shields.io/discord/430630483408453633.svg?style=for-the-badge)](https://discord.gg/7mS9GEY)
 
+[![Discord Bots](https://discordbots.org/api/widget/430630483408453633.svg)](https://discordbots.org/bot/438304216893620240)
+
 A Fire Emblem Heroes Discord bot
 
 
-# Commands:
--say : say [text] and delete                                                                                                               
--clear : clear a message from channel                                                                                                   
--ping : search ping or ms                                                                                                               
--ban : ban user from guild                                                                                                             
--kick @user @reason: kick user from guild                                                                                               
-
-And much more! Try -help to get a full list of available commands
-
-
+### Commands
+| Command       | Category      |Perms  |Info                      |
+|:-------------:|:-------------:|:---:  |:------------------------ |
+| say           | General       | None  | say to channel           |
+| ping          | General       | None  | Search Ping or ms        |
+| clear         | General       | None  | Clear a message 😏       |
+| avatar        | General       | NONE  | Search User Avatar       |
+| kick          | MOD           | ADMIN | Kick User From Server    |
+| ban           | MOD           | ADMIN | Ban User From Server     |
