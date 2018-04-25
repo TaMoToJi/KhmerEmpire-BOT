@@ -7,9 +7,9 @@
 ### Commands
 | Command       | Category      |Perms  |Info                      |
 |:-------------:|:-------------:|:---:  |:------------------------ |
-| say           | General       | None  | say to channel           |
-| ping          | General       | None  | Search Ping or ms        |
-| clear         | General       | None  | Clear a message 😏       |
+| say           | General       | None  | Say to channel           |
+| ping          | General       | None  | Search Ping or Ms        |
+| clear         | General       | None  | Clear a message          |
 | avatar        | General       | NONE  | Search User Avatar       |
 | kick          | MOD           | ADMIN | Kick User From Server    |
 | ban           | MOD           | ADMIN | Ban User From Server     |
