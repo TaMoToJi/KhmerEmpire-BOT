@@ -2,7 +2,7 @@
 
 <img src="https://discordapp.com/api/guilds/430630483408453633/widget.png?style=banner2">                                                 
 
-<img src="https://tamotoji533.wixsite.com/healong" data-canonical-src="https://img.shields.io/badge/website-loritta-blue.svg" style="max-width:100%;">
+
 
 ### Commands
 | Command       | Category      |Perms  |Info                      |
