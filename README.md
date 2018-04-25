@@ -1,6 +1,6 @@
 # Invite BOT : ⇩                                                                                                                            
-[Click Here To Invite Bot](https://discordapp.com/api/oauth2/authorize?client_id=438304216893620240&permissions=16796742&scope=bot)   
-
+<img [![active servers](https://discordbots.org/api/widget/servers/430630483408453633.svg)
+(https://discordbots.org/bot/360081866461806595)
 
 [![Discord](https://img.shields.io/discord/430630483408453633.svg?style=for-the-badge)](https://discord.gg/7mS9GEY)
 
