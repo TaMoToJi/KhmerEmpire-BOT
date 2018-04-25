@@ -13,7 +13,8 @@
 | avatar        | General       | NONE  | Search User Avatar        |
 | serverinfo    | General       | NONE  | Check a Server info       |
 | botinfo       | General       | NONE  | Check Bot Info           |
-| report        | General       | NONE  | Report a Player erfrom server|
+| report        | General       | NONE  | Report a Player from server |
+| rsetup        | General       | NONE  | Report Setup                |
 | kick          | General       | ADMIN | Kick Player From Server     |
 | ban           | General       | ADMIN | Ban Player From Server     |
 | invite        | General       | None  | Invite bot to server      |
