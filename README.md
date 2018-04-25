@@ -2,7 +2,7 @@
 
 <img src="https://discordapp.com/api/guilds/430630483408453633/widget.png?style=banner2">                                                 
 
-<a href="https://tamotoji533.wixsite.com/healong"><img src="https://img.shields.io/badge/Website-TaMoToJI-Purple.svg"></a>
+<a href="https://tamotoji533.wixsite.com/healong"><img src="https://img.shields.io/badge/Website-TaMoToJI-purple.svg"></a>
 
 ### Commands
 | Command       | Category      |Perms  |Info                      |
