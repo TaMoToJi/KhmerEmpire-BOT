@@ -13,6 +13,6 @@
 | avatar        | General       | NONE  | Search User Avatar        |
 | serverinfo    | General       | NONE  | Check a Server info       |
 | botinfo       | General       | NONE  | Checka Bot Info           |
-| report        | General       | NONE  | Report a Pley erfrom server|
+| report        | General       | NONE  | Report a Player erfrom server|
 | kick          | General       | ADMIN | Kick Player From Server     |
 | ban           | General       | ADMIN | Ban Player From Server     |
