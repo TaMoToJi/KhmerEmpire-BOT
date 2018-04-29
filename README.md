@@ -12,6 +12,7 @@
 | avatar        | General       | Search User Avatar           |
 | serverinfo    | General       | Check a Server info          |
 | gay           | Genaral       | tell you gay or not         |
+| userinfo      | General       | tell about user ifno k!userinfo help |
 | dick          | General       | tell you dick size          |
 | botinfo       | General       | Check Bot Info                |
 | report        | General       | Report a Player from server    |
