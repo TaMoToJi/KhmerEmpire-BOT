@@ -24,4 +24,3 @@
 | ban           |   MOD        | Ban Player From Server         |
 | say           |   MOD      | Say to channel              |
 
-https://discordbots.org/api/widget/430630483408453633.svg
