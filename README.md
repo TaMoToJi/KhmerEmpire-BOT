@@ -24,4 +24,3 @@
 | ban           |   MOD        | Ban Player From Server         |
 | say           |   MOD      | Say to channel              |
 
-<iframe src="https://discordapp.com/widget?id=430630483408453633&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
