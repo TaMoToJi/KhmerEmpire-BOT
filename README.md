@@ -1,6 +1,6 @@
 
 
-<img src="https://discordapp.com/api/guilds/430630483408453633/widget.png?style=banner2">                                                 
+<a href="https://www.patreon.com/bePatron?u=11141179" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>                                                
 
 <a href="https://tamotoji533.wixsite.com/healong"><img src="https://img.shields.io/badge/Website-TaMoToJI-63ABFA.svg"></a>
 
