@@ -2,7 +2,6 @@
 
 <a href="https://tamotoji533.wixsite.com/healong"><img src="https://img.shields.io/badge/Website-TaMoToJI-63ABFA.svg"></a>
 
-<a href="https://twitter.com/tamotoji_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tamotoji_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Commands
 | Command       | Category      | Info                       |
